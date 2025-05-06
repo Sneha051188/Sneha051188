@@ -26,21 +26,21 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🔗 [Asteroid Game](https://github.com/yourusername/asteroid-game) | A fun 2D game made with Python and Pygame! | `Python`, `Pygame` |
-| 🔗 [Sports Management System](https://github.com/yourusername/sports-system) | Manage student sports info and certificates | `HTML`, `CSS`, `JS`, `PHP`, `MySQL` |
-| 🔗 [Portfolio Website](https://github.com/yourusername/portfolio) | My personal portfolio with animation and themes | `HTML`, `CSS`, `JS` |
+| 🔗 [Asteroid Game](https://github.com/Sneha051188/asteroid-game) | A fun 2D game made with Python and Pygame! | `Python`, `Pygame` |
+| 🔗 [Sports Management System](https://github.com/Sneha051188/sports-system) | Manage student sports info and certificates | `HTML`, `CSS`, `JS`, `PHP`, `MySQL` |
+| 🔗 [Portfolio Website](https://github.com/Sneha051188/portfolio) | My personal portfolio with animation and themes | `HTML`, `CSS`, `JS` |
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sneha051188&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sneha051188&theme=tokyonight" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha051188&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
@@ -55,11 +55,15 @@
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome"/></a>
+  <a href="mailto:snehakumari0188@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sneha-kumari-04b237342/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://snehaportfolio-three.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome"/></a>
 </p>
 
 ---
 
 <p align="center">⚡️ Keep exploring, keep building!</p>
+
+<p align="center">
+  ![Visitor Badge](https://komarev.com/ghpvc/?username=Sneha051188&color=blue)
+</p>
